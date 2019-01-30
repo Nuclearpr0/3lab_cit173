@@ -1,0 +1,14 @@
+which python3 (check)
+	sudo apt-cache search python3 (check)
+sudo apt-get install python3 (install)
+python3 program.py (run)
+	python py.py (run python2)
+
+python3-minimal is already installed...
+
+run in background 
+	python3 program.py &
+kill
+	ps aux | grep python
+	kill "pid_number"
+	kill 14858

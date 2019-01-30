@@ -1,0 +1,4 @@
+sudo su == root@hostname:"current location"
+	/home/ioman/three_files
+
+su or su root == requires root pw

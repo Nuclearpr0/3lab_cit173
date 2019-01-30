@@ -1,0 +1,596 @@
+    1  run-parts /etc/update-motd.d/
+    2  clear
+    3  ls
+    4  cd /etc/update-motd.d/
+    5  ls
+    6  cat 105-ascii 
+    7  cat 115-aleart 
+    8  cd
+    9  exit
+   10  history
+   11  cat .bash
+   12  clear
+   13  cd /etc/update-motd.d/
+   14  cd
+   15  ls
+   16  vi update.sh
+   17  ls -al
+   18  clear
+   19  ls -l
+   20  ./update.sh
+   21  ls
+   22  cat .bash_history 
+   23  > .bash_history 
+   24  cat .bash_history 
+   25  clear
+   26  cat update.sh 
+   27  ls
+   28  chmod +x update.sh 
+   29  ./update.sh 
+   30  cat update.sh 
+   31  exit
+   32  ls al
+   33  ls -al
+   34  cat .vimrc
+   35  exit
+   36  clear
+   37  crontab -l
+   38  crontab -e
+   39  crontab -l
+   40  crontab -e
+   41  crontab -l
+   42  clear
+   43  exit
+   44  ls -al
+   45  celar
+   46  clear
+   47  ls -l
+   48  file file.txt 
+   49  pwd
+   50  clear
+   51  pwd
+   52  ls | grep example
+   53  ls
+   54  rm file.txt 
+   55  rm example 
+   56  cd /etc/update-motd.d/
+   57  cd
+   58  ls
+   59  exit
+   60  ls
+   61  sudo cp lucas_spider /etc/update-motd.d/lucas.asc
+   62  clear
+   63  ls
+   64  cd /etc/update-
+   65  ls
+   66  cd /etc/update-motd.d/
+   67  ls
+   68  sudo nano 105-ascii 
+   69  sudo chmod +x 105-ascii 
+   70  sudo chmod +x 115-aleart 
+   71  ls
+   72  run-parts /etc/update
+   73  run-parts /etc/update-mtod
+   74  run-parts /etc/update-motd.d/
+   75  clear
+   76  ls
+   77  run-parts /etc/update-motd.d/
+   78  ls
+   79  sudo nano 115-aleart 
+   80  run-parts /etc/update-motd.d/
+   81  clear
+   82  ls
+   83  clear
+   84  cd
+   85  clear
+   86  ls
+   87  mkdir notes
+   88  cd notes/
+   89  ls
+   90  nano day2
+   91  ls -al
+   92  ls -l
+   93  touch newfile
+   94  file newfile 
+   95  ls -al
+   96  touch day2 
+   97  ls -l
+   98  history
+   99  cat /etc/os-release 
+  100  clear
+  101  cat /etc/os-release 
+  102  uname a
+  103  uname -a
+  104  clear
+  105  cd
+  106  cd /etc/
+  107  pwd
+  108  cd
+  109  pwd
+  110  touch file.txt
+  111  cd /home/love
+  112  cd /home/levelzero/
+  113  pwd
+  114  touch ~/example
+  115  ls
+  116  cd
+  117  ls
+  118  claer
+  119  clear
+  120  ls
+  121  cd notes
+  122  ls
+  123  cat newfile 
+  124  rm newfile 
+  125  nano day2 
+  126  clear
+  127  exit
+  128  ssh pi@192.168.1.11
+  129  exit
+  130  cd
+  131  tmux new -s wwwdata
+  132  exit
+  133  sudo service ufw status
+  134  sudo ufw status
+  135  sudo ufw allow 22
+  136  sudo ufw ststua
+  137  sudo ufw enable
+  138  sudo ufw status
+  139  sudo ufw remove 2
+  140  sudo ufw delete 2
+  141  sudo ufw status
+  142  ifconfig
+  143  cd /etc/
+  144  ls
+  145  find | grep ssh
+  146  cd ssh/
+  147  ls
+  148  sudo cp sshd_config
+  149  sudo cp sshd_config sshd_config.bak
+  150  sudo nano sshd_config
+  151  cd
+  152  adduser levelzero
+  153  sudo adduser levelzero
+  154  cd /home
+  155  ls
+  156  su levelzero
+  157  cd
+  158  cd /etc/ssh/
+  159  cat sshd_config
+  160  cat sshd_config | grep level
+  161  ls /home/
+  162  sudo service ssh restart
+  163  sudo sesrvice ssh status
+  164  sudo service ssh status
+  165  cd
+  166  ifconfig
+  167  clear
+  168  ls
+  169  cd /etc/
+  170  ls
+  171  cd ssh/
+  172  ls
+  173  sudo nano sshd_config
+  174  sudo service ssh restart
+  175  less sshd_config
+  176  clear
+  177  sudo ufw disable
+  178  sudo ufw enable
+  179  sudo nano sshd_config
+  180  sudo service ssh restart
+  181  sudo ufw allow 22
+  182  sudo ufw restart
+  183  sudo service ufw restart
+  184  sudo ufw disable
+  185  sudo service ufw enable
+  186  sudo ufw enable
+  187  sudo ufw status
+  188  sudo ufw deny 22
+  189  sudo ufw status
+  190  sudo ufw allow 9247
+  191  sudo ufw status
+  192  sudo ufw delete 4
+  193  sudo ufw status
+  194  sudo apt-get install tmux -y
+  195  clear
+  196  tmux new -s fucker
+  197  exit
+  198  sudo shutdown now
+  199  type up
+  200  file update.sh type
+  201  type -p
+  202  type -p ls
+  203  tyep -t ls
+  204  type -p date
+  205  which date
+  206  which nmap
+  207  type -p nmap
+  208  type -a pwd
+  209  type -a date
+  210  which -a date
+  211  man which
+  212  clear
+  213  ls
+  214  ./update.sh 
+  215  ll
+  216  man ll
+  217  ll -h
+  218  echo $0
+  219  type $0
+  220  type -a
+  221  type 
+  222  $0
+  223  ehco $SHELL
+  224  type -t $SHELL
+  225  type -d $SHELL
+  226  type -a $SHELL
+  227  clear
+  228  exit
+  229  ls
+  230  which tyep
+  231  which type
+  232  mkdir 2lab_cit173
+  233  cd 2lab_cit173/
+  234  type -a pwd
+  235  which type
+  236  man type
+  237  type $0
+  238  type -t ls
+  239  type -t date
+  240  cd
+  241  cd 2lab_cit173/
+  242  clear
+  243  ls
+  244  clear
+  245  echo $0
+  246  type -a $0
+  247  type -t $0
+  248  ls
+  249  nano shell_exercise1
+  250  clear
+  251  ls
+  252  cd
+  253  ls
+  254  exit
+  255  ls
+  256  cat update.sh 
+  257  nano update.sh 
+  258  ./update.sh 
+  259  clare
+  260  claer
+  261  exit
+  262  clear
+  263  tmux new -s fuck
+  264  sudo shutdown now
+  265  exit
+  266  dexit
+  267  exit
+  268  ls
+  269  cd CIT173_Lab2_Files/
+  270  pwd
+  271  ls
+  272  cat phonebook1.txt phonebook2.txt > ../2lab_cit173/my-phonebook.txt
+  273  man wc
+  274  claer
+  275  cat phonelisting1.txt phonelisting2.txt > ../My_phonelisting.txt
+  276  claer
+  277  ls
+  278  cd
+  279  ls
+  280  cd notes
+  281  ls
+  282  nano lab2
+  283  claer
+  284  clear
+  285  exit
+  286  cd 2lab_cit173/
+  287  ls
+  288  wc -c my-phonebook.txt > 
+  289  echo "-w (word) -l (line), and -c (byte count) > phone_mine_data.txt
+  290  ls
+  291  echo "-w (word) -l (line), and -c (byte count)" > phone_mine_data.txt
+  292  ls
+  293  cat phone_mine_data.txt 
+  294  claer
+  295  ls
+  296  nano phone_mine_data.txt 
+  297  echo "wc -cwl file.txt" >> phone_mine_data.txt 
+  298  wc -cwl my-phonebook.txt >> phone_mine_data.txt 
+  299  cat phone_mine_data.txt 
+  300  claer
+  301  nano phone_mine_data.txt 
+  302  ls- al
+  303  ls -al
+  304  claer
+  305  ls
+  306  clear
+  307  ls
+  308  cd ..
+  309  ls
+  310  mv My_phonelisting.txt 2lab_cit173/
+  311  cd 2lab_cit173/
+  312  ls
+  313  man tac
+  314  man tail
+  315  claer
+  316  which tail
+  317  ls
+  318  tail -r My_phonelisting.txt tail_reverse_phonelisting.txt
+  319  ls
+  320  tac my-phonebook.txt > tac_my-phonebook-reverse.txt
+  321  top tac_my-phonebook-reverse.txt 
+  322  head tac_my-phonebook-reverse.txt 
+  323  head my-phonebook.txt 
+  324  tail my-phonebook.txt 
+  325  claer
+  326  echo "I have cleared my history -c so history.txt may be small" > README.TXT
+  327  ls
+  328  mv README.TXT README.txt
+  329  ls
+  330  echo "also > .bash_history emptying it" >> README.txt 
+  331  claer
+  332  ls
+  333  clear
+  334  ls
+  335  nl my-phonebook.txt 
+  336  nl my-phonebook.txt > nl-my-numbered-phonebook.txt
+  337  man head
+  338  head -n 5 my-phonebook.txt 
+  339  head -n 5 my-phonebook.txt > 5_my-head-phonebook.txt
+  340  tail -n 5
+  341  tail -n 5 my-phonebook.txt 
+  342  cat my-phonebook.txt 
+  343  tail -n 5 my-phonebook.txt 
+  344  tail -n 5 my-phonebook.txt > tail_my-phonebook.txt
+  345  clear
+  346  exit
+  347  run-parts /etc/update
+  348  run-parts /etc/update-motd.d/
+  349  clear
+  350  exit
+  351  clear
+  352  cd
+  353  ls
+  354  cd 2lab_cit173/
+  355  which view
+  356  man view
+  357  view /proc/irq
+  358  which view
+  359  viwe
+  360  view
+  361  cd /proc
+  362  ls
+  363  ls | grep interrupts 
+  364  cat interrupts 
+  365  lsusb
+  366  which single-user
+  367  claer
+  368  lsboot
+  369  boot-log
+  370  dmesg
+  371  dmesg | grep boot
+  372  krblgo
+  373  which krblog
+  374  clear
+  375  cd
+  376  cd 2lab_cit173/
+  377  cd
+  378  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files
+  379  ls
+  380  cd CIT173_Lab2_Files/
+  381  ls
+  382  tmux list-sessions
+  383  cd
+  384  claer
+  385  clear
+  386  tmux new -s haha
+  387  exit
+  388  ls
+  389  cd 2lab_cit173/
+  390  type -t ls
+  391  type $0
+  392  type -t $0
+  393  type -a $SHELL
+  394  nano view_shell.txt
+  395  clear
+  396  ls
+  397  which namp
+  398  which nmap
+  399  man tmux
+  400  ls
+  401  clear
+  402  ls
+  403  type shell
+  404  type SHELL
+  405  type $]SHELL
+  406  exit
+  407  ./update.sh 
+  408  echo $SHELL
+  409  echo $0
+  410  type -a $0
+  411  type -t $0
+  412  clear
+  413  pwd
+  414  git clone https://github.com/RenoTechnology/Academy/CIT173_Lab2_Files
+  415  cd notes
+  416  ls
+  417  cat lab2 
+  418  exit
+  419  cd notes/
+  420  ls
+  421  nano lab2 
+  422  cd ..
+  423  cd 2lab_cit173/
+  424  ls
+  425  cd .git/
+  426  ls
+  427  cat config 
+  428  ls
+  429  cd info/
+  430  ls
+  431  cd ..
+  432  ls
+  433  cd branches/
+  434  ls
+  435  cd ..
+  436  ls
+  437  ls hooks/
+  438  ls in
+  439  ls info/
+  440  ls logs
+  441  ls refs
+  442  cat description 
+  443  cat HEAD 
+  444  clear
+  445  cd ..
+  446  ls
+  447  git push origin master
+  448  exit
+  449  ls
+  450  cd 2lab_cit173/
+  451  ls
+  452  nano view_shell.txt 
+  453  ls
+  454  which join
+  455  join my-phonebook.txt my-phonebook.txt My_phonelisting.txt >joined_my-phonebook.txt
+  456  join my-phonebook.txt My_phonelisting.txt >joined_my-phonebook.txt
+  457  ls
+  458  cat joined_my-phonebook.txt 
+  459  ls -al
+  460  clear
+  461  sort my-phonebook.txt 
+  462  sort my-phonebook.txt > sorted_top_2_bottom_phonebook.txt
+  463  man unexpand
+  464  unexpand -t 2 my-phonebook.txt > tabbed_my-phonebook.txt
+  465  cat tabbed_my-phonebook.txt 
+  466  clear
+  467  history > current_command-history.txt
+  468  git int
+  469  git init
+  470  ls
+  471  cp README.txt README.md
+  472  clear
+  473  ls
+  474  git remote add origin https://github.com/Nuclearpr0/2lab_cit173.git
+  475  add -A
+  476  git add -A
+  477  git commit -m "lab 2 comment"
+  478  cd .git
+  479  ls
+  480  cat config 
+  481  cd 
+  482  ls
+  483  cd 1lab_cit173/
+  484  ls
+  485  cd .git/
+  486  ls
+  487  cat config 
+  488  exit
+  489  tmux new -s fucker
+  490  clear
+  491  sudo ./update.sh 
+  492  sudo shutdown now
+  493  sftp pi@192.168.1.11
+  494  xit
+  495  exit
+  496  ./update.sh 
+  497  ls
+  498  clear
+  499  exit
+  500  sudo nano /etc/update-motd.d/105-mr_ascii 
+  501  clear
+  502  exit
+  503  cat mr-robot_hackerman 
+  504  clear
+  505  ls
+  506  sudo cp mr-robot_hackerman /etc/update-motd.d/
+  507  cd /etc/update-motd.d/
+  508  ls
+  509  mv mr-robot_hackerman mr-robot_hackerman.asc
+  510  sudo mv mr-robot_hackerman mr-robot_hackerman.asc
+  511  sudo cp 105-ascii 105-mr_ascii
+  512  sudo chmod -x 105-ascii 
+  513  ls
+  514  sudo chmod +x 105-mr_ascii 
+  515  clear
+  516  run-parts /etc/update
+  517  run-parts /etc/update-motd.d/
+  518  ls
+  519  cat 105-mr_ascii 
+  520  ls
+  521  sudo nano 105-mr_ascii 
+  522  clear
+  523  exit
+  524  tmux new -s wtf
+  525  exit
+  526  sudo shutdown now
+  527  sudo nano 105-mr_ascii 
+  528  file file
+  529  cat file
+  530  sudo rm file
+  531  exit
+  532  clear
+  533  ls
+  534  cd
+  535  ls
+  536  cd 2lab_cit173/
+  537  l
+  538  ls
+  539  cear
+  540  clear
+  541  ls
+  542  tmux new -s set
+  543  exit
+  544  cd
+  545  exit
+  546  ls
+  547  cd
+  548  ls
+  549  exit
+  550  ls
+  551  cd CIT173_Lab2_Files/
+  552  ls
+  553  cd ..
+  554  ls
+  555  cd CIT173_Lab2_Files/
+  556  ls
+  557  cd ..
+  558  ls
+  559  sudo cp CIT173_Lab2_Files/ CIT173_Lab2_Files.bak
+  560  sudo cp -r CIT173_Lab2_Files/ CIT173_Lab2_Files.bak
+  561  clear
+  562  ls
+  563  cd CIT173_Lab2_Files
+  564  ls
+  565  cd ..
+  566  ls
+  567  cd three_files/
+  568  ls
+  569  sudo tar -xvf phonebook.tar.gz 
+  570  ls
+  571  ls -al
+  572  which python3
+  573  sudo sed 's/575/775/g' phonebook1.txt > ~/3lab_cit173/1_phonebook_775.txt
+  574  sudo cat phonebook1.txt 
+  575  claer
+  576  clear
+  577  sudo sed 's/575/775/g' phonebook2.txt > ~/3lab_cit173/2_phonebook_775.txt
+  578  sudo su
+  579  su
+  580  su root
+  581  sudo su
+  582  ls
+  583  sudo cp * ~/3lab_cit173/
+  584  nano cd ../3lab_cit173/
+  585  cd ../3lab_cit173/
+  586  ls
+  587  ps -A
+  588  ps -A >my-processes1.txt
+  589  ps aux | grep python
+  590  kill 14858
+  591  ps -A >my-processes2.txt
+  592  apt list -a
+  593  apt list -a --installed
+  594  apt list -a -i
+  595  apt list -a -i > my-installed-2.txt
+  596  history > my-command-history.txt
